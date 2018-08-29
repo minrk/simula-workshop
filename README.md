@@ -34,7 +34,7 @@ To install the packages required for this course and the Pandas course
 in a new environment with Anaconda, run:
 
 ```bash
-conda create -n simula-workshop python=3 numpy scipy jupyter jupyterlab ipywidgets pandas matplotlib requests nbdime altair
+conda create -n simula-workshop python=3 numpy scipy jupyter jupyterlab ipywidgets pandas matplotlib requests nbdime altair cython
 ```
 
 Then, to use this environment, enter:
