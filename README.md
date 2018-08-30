@@ -2,6 +2,9 @@
 
 adapted from [ngcm summer academy](http://ngcm.soton.ac.uk/summer-academy/programme.html)
 
+Launch via JupyterHub (during workshop): https://simula-workshop.minrk.net
+
+Or on Binder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/minrk/simula-workshop/master?urlpath=lab)
 
 ## Course content
 
