@@ -1,7 +1,6 @@
-# IPython/Jupyter Workshop at the NGCM Summer Academy
+# IPython/Jupyter Workshop for Simula Research Seminar
 
 adapted from [ngcm summer academy](http://ngcm.soton.ac.uk/summer-academy/programme.html)
-
 
 
 ## Course content
