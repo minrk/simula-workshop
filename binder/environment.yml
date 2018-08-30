@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - requests
+  - nbdime
+  - altair
+  - cython
+  - pip:
+    - metakernel-bash
